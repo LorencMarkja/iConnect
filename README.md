@@ -5,5 +5,5 @@ Repository gruppo EL Team
 Membri del gruppo: <br>
 Lorenc Markja &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	&nbsp;  &nbsp;252621 &nbsp;	lorenc.markja@student.univaq.it <br>
 Emanuela Gonzales &nbsp;	253237 &nbsp; emanuela.gonzales@student.univaq.it <br>
-Per la consegnafinale del progetto visionare la cartella Consegna Finale.
+Per la consegna finale del progetto visionare la cartella Consegna Finale.
 
